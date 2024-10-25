@@ -38,4 +38,5 @@ V - Controle de Manutenção: O software fornecerá alertas automáticos sobre m
 VI - Segurança e Auditoria: o banco de dados será protegido por criptografia e sistemas de backup, garantindo que as informações dos clientes e da empresa sejam armazenadas de forma segura. Além disso, o software terá funcionalidades de auditoria para rastrear mudanças nos registros, garantindo transparência e confiabilidade no sistema.  
 
 
+![rascunho_tabelas](https://github.com/user-attachments/assets/477cffc7-1c30-4af9-8920-ef0a3a59b1ba)
 
